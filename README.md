@@ -5,7 +5,7 @@ In order to reproduce the performance of ENLIGHT-DeepPT presented in Figure 3 of
 1) The ENLIGHT-Matching Scores (EMS) for each dataset
 2) The binary response classification for each patient
 
-The EMS scores for each dataset are reproducible using the DeepPT-predicted mRNA expression matrices available in this repository under the "DeepPT_mRNA" folder and the EMS-calculator web-service: https://ems.pangeabiomed.com/. \
+The EMS for each dataset are reproducible using the DeepPT-predicted mRNA expression matrices available in this repository under the "DeepPT_mRNA" folder and the EMS-calculator web-service: https://ems.pangeabiomed.com/. \
 For ease of use, the pre-calculated scores are given in this repository in the folder "EMS_scores" \
 After obtaining both, the performance can easily be reproduce using the following code block:
 
